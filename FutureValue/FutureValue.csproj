@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Murach Chpater my work\CalculateFutureValue.cs" Link="CalculateFutureValue.cs" />
+    <Compile Include="D:\Murach Chpater my work\MurachExercise6-1.cs" Link="MurachExercise6-1.cs" />
+  </ItemGroup>
+
+</Project>
